@@ -1,1 +1,1 @@
-# pinetop-datastoe
+# pinetop-datastore
